@@ -1,0 +1,3 @@
+#include "th13/globals/main.tecl"
+#include "th13/ecl/main.tecl"
+#include "th13/inline/main.tecl"

@@ -1,0 +1,20 @@
+#include "../Debug/merlin/th13.tecl"
+void main()
+{
+    etNew(0);
+    etSprite(0, ET_RICE, COLOR16_YELLOW);
+
+    etAim(0, AIM_AT);
+    etCount(0, 4, 2);
+    etSpeed(0, 2f, 2.5f);
+
+    etEx(0, 0, EX_DIST, NEG, NEG, NEGF, NEGF);
+
+    while(1)
+    {
+        etAngle(0, RANDRAD/10f, rad(15));
+        etOffset(0, RANDF2*150f, RANDF2*80f);
+        etOn(0);
+        wait(60);
+    }
+}

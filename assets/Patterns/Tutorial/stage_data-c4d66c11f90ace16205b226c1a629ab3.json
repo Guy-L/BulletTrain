@@ -1,0 +1,14 @@
+{
+  "YellowFans.ecl": {
+    "gold": 50000,
+    "silver": 25000,
+    "bronze": 10000,
+    "duration": 35.0
+  },
+  "PinkFans.ecl": {
+    "gold": 50000,
+    "silver": 25000,
+    "bronze": 10000,
+    "duration": 40.0
+  }
+}

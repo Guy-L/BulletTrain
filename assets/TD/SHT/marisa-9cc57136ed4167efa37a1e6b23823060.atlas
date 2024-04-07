@@ -1,0 +1,265 @@
+
+marisa.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: x
+mainBullet
+  rotate: false
+  xy: 0, 144
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+mainBulletDestroy
+  rotate: false
+  xy: 32, 144
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: 1
+mainBulletDestroy
+  rotate: false
+  xy: 64, 144
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: 2
+mainBulletDestroy
+  rotate: false
+  xy: 96, 144
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: 3
+rocket
+  rotate: false
+  xy: 128, 192
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: 1
+rocket
+  rotate: false
+  xy: 162, 192
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: 2
+rocketDestroy
+  rotate: false
+  xy: 128, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+rocketDestroy
+  rotate: false
+  xy: 160, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+rocketDestroy
+  rotate: false
+  xy: 192, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+rocketDestroy
+  rotate: false
+  xy: 224, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+hakkero
+  rotate: false
+  xy: 81, 161
+  size: 14,14
+  orig: 14,14
+  offset: 0, 0
+  index: -1
+laserStart
+  rotate: false
+  xy: 0,191
+  size: 33,32
+  orig: 33,32
+  offset: 0, 0
+  index: -1
+laser
+  rotate: false
+  xy: 0,177
+  size: 256,14
+  orig: 256,14
+  offset: 0, 0
+  index: -1
+laserEnd
+  rotate: false
+  xy: 33, 198
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+front
+  rotate: false
+  xy: 0, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 1
+front
+  rotate: false
+  xy: 32, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 2
+front
+  rotate: false
+  xy: 64, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 3
+front
+  rotate: false
+  xy: 96, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 4
+front
+  rotate: false
+  xy: 128, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 5
+front
+  rotate: false
+  xy: 160, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 6
+front
+  rotate: false
+  xy: 192, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 7
+front
+  rotate: false
+  xy: 224, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 8
+tleft
+  rotate: false
+  xy: 32, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:1
+tleft
+  rotate: false
+  xy: 64, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:2
+tleft
+  rotate: false
+  xy: 96, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:3
+left
+  rotate: false
+  xy: 128, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 1
+left
+  rotate: false
+  xy: 160, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:2
+left
+  rotate: false
+  xy: 192, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 3
+left
+  rotate: false
+  xy: 224, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 4
+tright
+  rotate: false
+  xy: 32, 97
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:1
+tright
+  rotate: false
+  xy: 64, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:2
+tright
+  rotate: false
+  xy: 96, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:3
+tright
+  rotate: false
+  xy: 128, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: 4
+right
+  rotate: false
+  xy: 160, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:1
+right
+  rotate: false
+  xy: 192, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:2
+right
+  rotate: false
+  xy: 224, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:3
+right
+  rotate: false
+  xy: 224,96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index:4
