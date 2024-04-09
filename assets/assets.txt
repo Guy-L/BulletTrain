@@ -1,6 +1,6 @@
 d:assets:assets:0:application/unknown:1
 i:ascii.png:ascii-c2e127db2d1df824008d6b404f17dd47.png:524908:image/png:1
-t:assets.txt:assets-39c3c2599774f79e94c8efc602b46def.txt:5114:text/plain:1
+t:assets.txt:assets-2affdc5153c2a0f13f7474c6be6f32ec.txt:5078:text/plain:1
 i:backgrid.png:backgrid-0232368222bd48a2775d45fa40c60682.png:3516:image/png:1
 d:Background:Background:0:application/unknown:1
 i:Background/st03-2.png:Background/st03-2-23e1e4aadf1677f2ce19459dc234b80c.png:1536832:image/png:1
@@ -24,6 +24,7 @@ i:Enemy/4.png:Enemy/4-5f870caf56fbea60beeb4ed05d2e9389.png:1134:image/png:1
 i:Enemy/5.png:Enemy/5-50a3f18341b1994f46adf008a6d31e0c.png:1216:image/png:1
 i:Enemy/6.png:Enemy/6-d59d6a07b9ba5d288bd64daae4343c88.png:1223:image/png:1
 i:fat_triangle.png:fat_triangle-8c1ae519946b49da9af64409667c9c69.png:1872:image/png:1
+b:favicon.ico:favicon-3797c9bf41f249843c87078e91b26836.ico:4158:application/unknown:1
 t:fixedsys.fnt:fixedsys-f3986e59c82eb1a028afcefec3024cf0.fnt:11244:application/unknown:1
 i:fixedsys.png:fixedsys-e2edd5a15f76bb8161a2ed2da0144263.png:11112:image/png:1
 i:Forward.png:Forward-5e7a0d21db2324077e25e5f0cc9a8bb0.png:772:image/png:1
@@ -44,11 +45,7 @@ a:Music/1.ogg:Music/1-35863bef1777c1c564a6d064b5b63f13.ogg:4548908:audio/ogg:1
 a:Music/2.ogg:Music/2-b5a429801aa660050cb88f92c72ed456.ogg:5521054:audio/ogg:1
 a:Music/3.ogg:Music/3-5b313123b7c72de77fda0f3a85550123.ogg:4961749:audio/ogg:1
 a:Music/4.ogg:Music/4-62cf5dc3f32eaddf8450de3f3dc3ad4c.ogg:7126948:audio/ogg:1
-a:Music/5.ogg:Music/5-783ec910c5a2f8dae7164cafbcd241c0.ogg:5739946:audio/ogg:1
-a:Music/6.ogg:Music/6-22576a66e2b7111bfc4dd994bbc60884.ogg:5687952:audio/ogg:1
-a:Music/7.ogg:Music/7-75077081ddf41b9759ad5542fea4c1c8.ogg:4580833:audio/ogg:1
-a:Music/8.ogg:Music/8-a979fe91a63b79165b0ad685c76a2f75.ogg:4819823:audio/ogg:1
-a:Music/9.ogg:Music/9-43bc8e2b0cbd5e1a5550bb65cdb617d0.ogg:4574617:audio/ogg:1
+a:Music/5.ogg:Music/5-75077081ddf41b9759ad5542fea4c1c8.ogg:4580833:audio/ogg:1
 a:Music/Menu.ogg:Music/Menu-8e44e8f198fa9c6b3f21f687eadd5caf.ogg:4793170:audio/ogg:1
 i:nomedal.png:nomedal-3e4698755e8dec744c0a004c28fedd60.png:3065:image/png:1
 d:Patterns:Patterns:0:application/unknown:1
