@@ -1,0 +1,45 @@
+#include "../Debug/merlin/th13.tecl"
+void main()
+{
+	etNew(0);
+	etSprite(0, ET_RICE, COLOR16_YELLOW);
+
+	etAim(0, AIM_ST);
+	etCount(0, 5, 3);
+	etSpeed(0, 5f, 4f);
+	etAngle(0, rad(-130), rad(10));
+
+    etNew(1);
+	etSprite(1, ET_RICE, COLOR16_YELLOW);
+
+	etAim(1, AIM_ST);
+	etCount(1, 5, 3);
+	etSpeed(1, 5f, 4f);
+	etAngle(1, rad(-50), rad(10));
+
+    etNew(2);
+	etSprite(2, ET_RICE, COLOR16_PINK);
+
+	etAim(2, AIM_ST);
+	etCount(2, 3, 3);
+	etSpeed(2, 5f, 4f);
+	etAngle(2, rad(-90), rad(10));
+
+	//etEx(0, 0, EX_DIST, NEG, NEG, NEGF, NEGF);
+    etEx(0, 0, EX_ACCEL, 100, NEG, 0.09f, rad(90));
+    etEx(0, 0, EX_ACCEL, 100, NEG, 0.035f, rad(0));
+    etEx(1, 0, EX_ACCEL, 100, NEG, 0.09f, rad(90));
+    etEx(1, 0, EX_ACCEL, 100, NEG, 0.035f, rad(-180));
+    etEx(2, 0, EX_ACCEL, 100, NEG, 0.05, rad(90));
+    //etEx(0, 0, EX_ACCEL_VEL, 150, NEG, 0.05f, rad(90));
+    //etEx(0, 0, EX_ANGLE_ACCEL, 50, NEG, 0.5f, 0.1f);
+
+    wait(150);
+	while(1)
+	{
+		etOn(0);
+		etOn(1);
+		//etOn(2);
+		wait(100);
+	}
+}

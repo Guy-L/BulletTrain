@@ -1,0 +1,40 @@
+#include "../Debug/merlin/th13.tecl"
+void main()
+{
+    etNew(0);
+
+    etAim(0, AIM_AT);
+    etSpeed(0, 1.5f, 2f);
+
+    etEx(0, 0, EX_DIST, NEG, NEG, NEGF, NEGF);
+
+    wait(200);
+    int a = 0;
+    while(1)
+    {
+        etCount(0, 2+a, 1);
+      
+        if(a % 2 == 0){
+           etSprite(0, ET_RICE, COLOR16_GREEN);
+        } else {
+           etSprite(0, ET_BULLET, COLOR16_DARKRED);
+        }
+      
+        float b = 15f - _f(a);
+        if(b < 9f){etAngle(0, 0f, 9f * 0.0174533);}
+        else{etAngle(0, 0f, b * 0.0174533);}
+        etOn(0);
+      
+        if(a*15 > 125){
+          wait(75);
+        }else{
+          wait(200 - a*15);
+        }
+      
+        if(a < 10){
+           a = a + 1;
+        } else {
+          a = a - 1;
+        }
+    }
+}

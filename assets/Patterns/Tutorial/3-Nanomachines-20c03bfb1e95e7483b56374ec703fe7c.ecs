@@ -1,0 +1,32 @@
+#include "../Debug/merlin/th13.tecl"
+void main()
+{
+    etNew(0);
+    etSprite(0, ET_OUTLINE, COLOR16_PINK);
+
+    etAim(0, AIM_AT);
+    etCount(0, 1, 1);
+    etSpeed(0, 0.1f, 1f);
+    lifeSet(20000);
+
+    etEx(0, 0, EX_DIST, NEG, NEG, NEGF, NEGF);
+    etEx(0, 0, EX_WAIT, 150, NEG, NEGF, NEGF);
+    etEx(0, 0, EX_DIST, NEG, NEG, NEGF, NEGF);
+    etEx(0, 0, EX_WAIT, 150, NEG, NEGF, NEGF);
+    etEx(0, 0, EX_DIST, NEG, NEG, NEGF, NEGF);
+    etEx(0, 0, EX_WAIT, 150, NEG, NEGF, NEGF);
+    etEx(0, 0, EX_DIST, NEG, NEG, NEGF, NEGF);
+
+    wait(200);
+    int a = 150;
+    while(1)
+    {
+        //etOffset(0, RANDF2*40f, RANDF2*40f);
+        etAngle(0, 0.15f*RANDRAD, rad(15));
+        etOn(0);
+        wait(a);
+
+        if(a > 30) a = a - 10;
+        else a = 30;
+    }
+}

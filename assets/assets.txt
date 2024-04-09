@@ -1,19 +1,19 @@
 d:assets:assets:0:application/unknown:1
 i:ascii.png:ascii-c2e127db2d1df824008d6b404f17dd47.png:524908:image/png:1
-t:assets.txt:assets-c8d60f0e0de67401b68949fcacef1ad0.txt:4361:text/plain:1
+t:assets.txt:assets-39c3c2599774f79e94c8efc602b46def.txt:5114:text/plain:1
 i:backgrid.png:backgrid-0232368222bd48a2775d45fa40c60682.png:3516:image/png:1
 d:Background:Background:0:application/unknown:1
 i:Background/st03-2.png:Background/st03-2-23e1e4aadf1677f2ce19459dc234b80c.png:1536832:image/png:1
 i:Background/st03.png:Background/st03-d4d648f254bd4790e2fe6abf5181a72a.png:944465:image/png:1
 b:Background/st03.webm:Background/st03-f3f170dcf75e9edd5d90fe30b2909020.webm:57718663:video/webm:1
-i:Background/st06.png:Background/st06-d3924ee88795c4d4c8a097b250e1995f.png:1581283:image/png:1
-b:Background/st06.webm:Background/st06-85c698c58a0eb4531bb5beb820e8b088.webm:69672470:video/webm:1
+i:Background/st03tut.png:Background/st03tut-38aaccdad09ee41313f5f55247d66d2f.png:318730:image/png:1
+b:Background/st03tut.webm:Background/st03tut-31339223a848ffed8a953af1c18b1d88.webm:59189636:video/webm:1
 b:bomb.p:bomb-f0cf23c10d326e6b6849e919503aa6df.p:3751:application/unknown:1
 i:bronze.png:bronze-043371a94d2a5e305a3f7263df3fc653.png:21556:image/png:1
 b:cancel.p:cancel-d3adb269cd455eb117afb367dfcb39d9.p:3746:application/unknown:1
 i:Charge.png:Charge-f9eea9847535f3031bc88b5fcb8ab7ac.png:785:image/png:1
 b:death.p:death-3a70bf73fad7a6fa0f31c38ebfdef0a1.p:3752:application/unknown:1
-t:default.fnt:default-4385322d6c6ec09c8784f201422daba8.fnt:11527:application/unknown:1
+t:default.fnt:default-301cd793092dcaaafd793b66d5d46060.fnt:11628:application/unknown:1
 i:default.png:default-3ea789c54d8f27e82e768a7f9f41f55f.png:10653:image/png:1
 d:Enemy:Enemy:0:application/unknown:1
 i:Enemy/0.png:Enemy/0-100c0cf95cf58fa493cf60f274b59c77.png:968:image/png:1
@@ -24,6 +24,8 @@ i:Enemy/4.png:Enemy/4-5f870caf56fbea60beeb4ed05d2e9389.png:1134:image/png:1
 i:Enemy/5.png:Enemy/5-50a3f18341b1994f46adf008a6d31e0c.png:1216:image/png:1
 i:Enemy/6.png:Enemy/6-d59d6a07b9ba5d288bd64daae4343c88.png:1223:image/png:1
 i:fat_triangle.png:fat_triangle-8c1ae519946b49da9af64409667c9c69.png:1872:image/png:1
+t:fixedsys.fnt:fixedsys-f3986e59c82eb1a028afcefec3024cf0.fnt:11244:application/unknown:1
+i:fixedsys.png:fixedsys-e2edd5a15f76bb8161a2ed2da0144263.png:11112:image/png:1
 i:Forward.png:Forward-5e7a0d21db2324077e25e5f0cc9a8bb0.png:772:image/png:1
 t:general.atlas:general-cb0cf39a25cb273afaeb905560eb5817.atlas:39675:application/unknown:1
 i:general.png:general-3f98599fce26da19f5ca7f3d8d4d5a64.png:388834:image/png:1
@@ -36,6 +38,18 @@ i:icon32.png:icon32-ad1e3592cdac617e1933fd7965a8b711.png:290:image/png:1
 i:laser.png:laser-7615cac31404bf3950533bd76b7ed678.png:1954:image/png:1
 i:line.png:line-6551ce648af270a9e366f0bab56bf991.png:91:image/png:1
 i:logo.png:logo-a20df66d846694fb9e298c8f0b638942.png:13243:image/png:1
+d:Music:Music:0:application/unknown:1
+a:Music/0.ogg:Music/0-9dc27e15a73350c9996a418d19448b9f.ogg:4693191:audio/ogg:1
+a:Music/1.ogg:Music/1-35863bef1777c1c564a6d064b5b63f13.ogg:4548908:audio/ogg:1
+a:Music/2.ogg:Music/2-b5a429801aa660050cb88f92c72ed456.ogg:5521054:audio/ogg:1
+a:Music/3.ogg:Music/3-5b313123b7c72de77fda0f3a85550123.ogg:4961749:audio/ogg:1
+a:Music/4.ogg:Music/4-62cf5dc3f32eaddf8450de3f3dc3ad4c.ogg:7126948:audio/ogg:1
+a:Music/5.ogg:Music/5-783ec910c5a2f8dae7164cafbcd241c0.ogg:5739946:audio/ogg:1
+a:Music/6.ogg:Music/6-22576a66e2b7111bfc4dd994bbc60884.ogg:5687952:audio/ogg:1
+a:Music/7.ogg:Music/7-75077081ddf41b9759ad5542fea4c1c8.ogg:4580833:audio/ogg:1
+a:Music/8.ogg:Music/8-a979fe91a63b79165b0ad685c76a2f75.ogg:4819823:audio/ogg:1
+a:Music/9.ogg:Music/9-43bc8e2b0cbd5e1a5550bb65cdb617d0.ogg:4574617:audio/ogg:1
+a:Music/Menu.ogg:Music/Menu-8e44e8f198fa9c6b3f21f687eadd5caf.ogg:4793170:audio/ogg:1
 i:nomedal.png:nomedal-3e4698755e8dec744c0a004c28fedd60.png:3065:image/png:1
 d:Patterns:Patterns:0:application/unknown:1
 d:Patterns/Attention:Patterns/Attention:0:application/unknown:1
@@ -53,7 +67,7 @@ b:Patterns/Attention/5-PinkFans.ecl:Patterns/Attention/5-PinkFans-44130853096894
 b:Patterns/Attention/5-PinkFans.ecs:Patterns/Attention/5-PinkFans-8ac7fa65200daaf6a73dc6f748da364f.ecs:375:application/unknown:1
 b:Patterns/Attention/6-PinkFans.ecl:Patterns/Attention/6-PinkFans-441308530968944da08c78309b57ff4a.ecl:1704:application/unknown:1
 b:Patterns/Attention/6-PinkFans.ecs:Patterns/Attention/6-PinkFans-8ac7fa65200daaf6a73dc6f748da364f.ecs:375:application/unknown:1
-t:Patterns/Attention/stage_data.json:Patterns/Attention/stage_data-3822d6a6fd041f80966015606a3c6899.json:197:application/json:1
+t:Patterns/Attention/stage_data.json:Patterns/Attention/stage_data-e477f073f87c94b2f3d4f2994a310a7f.json:211:application/json:1
 d:Patterns/Debug:Patterns/Debug:0:application/unknown:1
 d:Patterns/Debug/merlin:Patterns/Debug/merlin:0:application/unknown:1
 d:Patterns/Debug/merlin/th13:Patterns/Debug/merlin/th13:0:application/unknown:1
@@ -92,7 +106,7 @@ b:Patterns/ReactionTime/4-PinkFans.ecl:Patterns/ReactionTime/4-PinkFans-44130853
 b:Patterns/ReactionTime/4-PinkFans.ecs:Patterns/ReactionTime/4-PinkFans-8ac7fa65200daaf6a73dc6f748da364f.ecs:375:application/unknown:1
 b:Patterns/ReactionTime/5-PinkFans.ecl:Patterns/ReactionTime/5-PinkFans-441308530968944da08c78309b57ff4a.ecl:1704:application/unknown:1
 b:Patterns/ReactionTime/5-PinkFans.ecs:Patterns/ReactionTime/5-PinkFans-8ac7fa65200daaf6a73dc6f748da364f.ecs:375:application/unknown:1
-t:Patterns/ReactionTime/stage_data.json:Patterns/ReactionTime/stage_data-3822d6a6fd041f80966015606a3c6899.json:197:application/json:1
+t:Patterns/ReactionTime/stage_data.json:Patterns/ReactionTime/stage_data-e477f073f87c94b2f3d4f2994a310a7f.json:211:application/json:1
 d:Patterns/SpatialReasoning:Patterns/SpatialReasoning:0:application/unknown:1
 b:Patterns/SpatialReasoning/1-YellowFans.ecl:Patterns/SpatialReasoning/1-YellowFans-5496f995a47cf624e07ffe865ca9db27.ecl:1704:application/unknown:1
 b:Patterns/SpatialReasoning/1-YellowFans.ecs:Patterns/SpatialReasoning/1-YellowFans-112ec9369e1bb6502d6af4687478f765.ecs:377:application/unknown:1
@@ -113,16 +127,44 @@ b:Patterns/SpatialReasoning/8-PinkFans.ecs:Patterns/SpatialReasoning/8-PinkFans-
 b:Patterns/SpatialReasoning/9-PinkFans.ecl:Patterns/SpatialReasoning/9-PinkFans-441308530968944da08c78309b57ff4a.ecl:1704:application/unknown:1
 b:Patterns/SpatialReasoning/9-PinkFans2.ecl:Patterns/SpatialReasoning/9-PinkFans2-441308530968944da08c78309b57ff4a.ecl:1704:application/unknown:1
 b:Patterns/SpatialReasoning/9-PinkFans2.ecs:Patterns/SpatialReasoning/9-PinkFans2-8ac7fa65200daaf6a73dc6f748da364f.ecs:375:application/unknown:1
-t:Patterns/SpatialReasoning/stage_data.json:Patterns/SpatialReasoning/stage_data-3822d6a6fd041f80966015606a3c6899.json:197:application/json:1
+t:Patterns/SpatialReasoning/stage_data.json:Patterns/SpatialReasoning/stage_data-e477f073f87c94b2f3d4f2994a310a7f.json:211:application/json:1
 d:Patterns/Tutorial:Patterns/Tutorial:0:application/unknown:1
-b:Patterns/Tutorial/1-YellowFans.ecl:Patterns/Tutorial/1-YellowFans-5496f995a47cf624e07ffe865ca9db27.ecl:1704:application/unknown:1
-b:Patterns/Tutorial/1-YellowFans.ecs:Patterns/Tutorial/1-YellowFans-112ec9369e1bb6502d6af4687478f765.ecs:377:application/unknown:1
-b:Patterns/Tutorial/2-PinkFans.ecl:Patterns/Tutorial/2-PinkFans-441308530968944da08c78309b57ff4a.ecl:1704:application/unknown:1
-b:Patterns/Tutorial/2-PinkFans.ecs:Patterns/Tutorial/2-PinkFans-8ac7fa65200daaf6a73dc6f748da364f.ecs:375:application/unknown:1
-t:Patterns/Tutorial/stage_data.json:Patterns/Tutorial/stage_data-e2bcde8c402845daaee7920bcf520638.json:219:application/json:1
+b:Patterns/Tutorial/1-Basics.ecl:Patterns/Tutorial/1-Basics-dd23b1297df54a31dcdc2afc3f68f6e3.ecl:2036:application/unknown:1
+b:Patterns/Tutorial/1-Basics.ecs:Patterns/Tutorial/1-Basics-642c205fc3811e94fb38157aaf18af85.ecs:988:application/unknown:1
+b:Patterns/Tutorial/2-Dodging.ecl:Patterns/Tutorial/2-Dodging-7bd3db57dd20c97506724778a03d2795.ecl:2564:application/unknown:1
+b:Patterns/Tutorial/2-Dodging.ecs:Patterns/Tutorial/2-Dodging-62760adec018fd8a927d78986a85e9c3.ecs:759:application/unknown:1
+b:Patterns/Tutorial/3-Nanomachines.ecl:Patterns/Tutorial/3-Nanomachines-fcaefb599c313c5a5aa86e67b87d93fe.ecl:2128:application/unknown:1
+b:Patterns/Tutorial/3-Nanomachines.ecs:Patterns/Tutorial/3-Nanomachines-20c03bfb1e95e7483b56374ec703fe7c.ecs:767:application/unknown:1
+b:Patterns/Tutorial/4-Scoring.ecl:Patterns/Tutorial/4-Scoring-c2dc598443c37d72213cb590adaff21a.ecl:2460:application/unknown:1
+b:Patterns/Tutorial/4-Scoring.ecs:Patterns/Tutorial/4-Scoring-cbac257bc867de202c5b252b7441c04e.ecs:1092:application/unknown:1
+t:Patterns/Tutorial/stage_data.json:Patterns/Tutorial/stage_data-5c016cbbf60857af975d37e3d72b75b7.json:464:application/json:1
 i:point.png:point-cdd45bc44f783baffff1cc8ded763e32.png:547:image/png:1
 i:power.png:power-1c53654f82d1898a289f17fdd0993a3d.png:413:image/png:1
 i:silver.png:silver-a44b4dc45f7abccb19f0a8aaf4afc85e.png:16746:image/png:1
+d:Sounds:Sounds:0:application/unknown:1
+a:Sounds/Bomb.ogg:Sounds/Bomb-d139235f08a0b8f0e91aec3049072456.ogg:23254:audio/ogg:1
+a:Sounds/Boss Kill.ogg:Sounds/Boss Kill-2d05e1698fe8a1c5c7128b5a6fa67cf9.ogg:40165:audio/ogg:1
+a:Sounds/Boss Shoot 2.ogg:Sounds/Boss Shoot 2-aa096b3b357d1eae23e413a854d1e495.ogg:9182:audio/ogg:1
+a:Sounds/Boss Shoot.ogg:Sounds/Boss Shoot-4b19f6305858b5831811faab81077afb.ogg:9458:audio/ogg:1
+a:Sounds/Charge 1.ogg:Sounds/Charge 1-af0f4c8cefe1e7f30908be213df199e4.ogg:17963:audio/ogg:1
+a:Sounds/Charge 2.ogg:Sounds/Charge 2-60934390f0565e23fa7be779fb2cd3a3.ogg:11413:audio/ogg:1
+a:Sounds/Charge 3.ogg:Sounds/Charge 3-2a44ca07ae6bd6694ee579bef18fa811.ogg:11292:audio/ogg:1
+a:Sounds/Confirm 2.ogg:Sounds/Confirm 2-b513eb252647c0fd40652742cf3e1a10.ogg:7938:audio/ogg:1
+a:Sounds/Confirm.ogg:Sounds/Confirm-242c6bc4ca521cc3592e9d27afe27f81.ogg:7748:audio/ogg:1
+a:Sounds/Damage Echo.ogg:Sounds/Damage Echo-7023e66ce98508f89c509626bc500d78.ogg:8505:audio/ogg:1
+a:Sounds/Damage Normal.ogg:Sounds/Damage Normal-1c1cb09992685a071fdaf1f140bfb1d9.ogg:5493:audio/ogg:1
+a:Sounds/Death.ogg:Sounds/Death-54757b0a7d04c78eb3b7568d870261ed.ogg:23049:audio/ogg:1
+a:Sounds/Extend.ogg:Sounds/Extend-f1f45112de1774c7f05057325a347721.ogg:25414:audio/ogg:1
+a:Sounds/Graze 2.ogg:Sounds/Graze 2-aa03c5446e7b3289856093a90d272212.ogg:5511:audio/ogg:1
+a:Sounds/Graze.ogg:Sounds/Graze-506afd948f9bf6d0b9d81333eedf2c69.ogg:5173:audio/ogg:1
+a:Sounds/Laser.ogg:Sounds/Laser-7af6e094babf1a137b8a57bc53aeb067.ogg:7315:audio/ogg:1
+a:Sounds/Menu Close.ogg:Sounds/Menu Close-b70239f270f2e03647c2ae3f086832e0.ogg:6161:audio/ogg:1
+a:Sounds/Menu Open.ogg:Sounds/Menu Open-1579e67d7ea2a30e815b80cbb9c8bbc4.ogg:5832:audio/ogg:1
+a:Sounds/Missile.ogg:Sounds/Missile-b64c363a821446c541fd29b2b90bf3df.ogg:5122:audio/ogg:1
+a:Sounds/Power.ogg:Sounds/Power-23154dc37d5527ab0d38d345c9af6336.ogg:38607:audio/ogg:1
+a:Sounds/Selection.ogg:Sounds/Selection-4209a6ded6b1589599506041a42da47b.ogg:6027:audio/ogg:1
+a:Sounds/Slash.ogg:Sounds/Slash-2774f419af32f76a0bd4e064ec8116e8.ogg:13131:audio/ogg:1
+a:Sounds/Transition.ogg:Sounds/Transition-814a1675ed136c3737a028850090f723.ogg:8454:audio/ogg:1
 i:Spread.png:Spread-ff2b3b5eb643e7b92c42d3b2be03f190.png:791:image/png:1
 i:square.png:square-567aa2b5b8a9aa8a63a813b6405a554d.png:89:image/png:1
 i:tap.png:tap-afb3e92b6e1a91084cb64d31f3383f44.png:3520:image/png:1

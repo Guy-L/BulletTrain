@@ -1,0 +1,26 @@
+{
+  "Basics.ecl": {
+    "gold": 150000,
+    "silver": 100000,
+    "bronze": 50000,
+    "duration": 50.0
+  },
+  "Dodging.ecl": {
+    "gold": 80000,
+    "silver": 70000,
+    "bronze": 50000,
+    "duration": 40.0
+  },
+  "Nanomachines.ecl": {
+    "gold": 120000,
+    "silver": 110000,
+    "bronze": 90000,
+    "duration": 60.0
+  },
+  "Scoring.ecl": {
+    "gold": 250000,
+    "silver": 200000,
+    "bronze": 150000,
+    "duration": 60.0
+  }
+}
